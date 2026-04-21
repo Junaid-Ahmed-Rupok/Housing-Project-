@@ -1,5 +1,10 @@
 # California Housing Ocean Proximity Classification
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-orange)
+![Accuracy](https://img.shields.io/badge/Accuracy-97.8%25-brightgreen)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+
 ## Project Overview
 
 This project implements a machine learning pipeline to classify ocean proximity categories in the California Housing dataset using a Random Forest Classifier with SMOTE for handling class imbalance.
