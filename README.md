@@ -49,6 +49,17 @@ The dataset contains housing information from California districts collected fro
 - Box plots for outlier detection
 - Correlation heatmap for numerical features
 
+### Visualizations
+
+#### Histograms and Bar Charts
+![Histograms and Bar Charts](Histogram%20and%20Barchart.png)
+
+#### Boxplots for Outlier Detection
+![Boxplots](Boxplot.png)
+
+#### Correlation Heatmap
+![Correlation Heatmap](Correlation_Heatmap.png)
+
 ### 2. Data Preprocessing
 
 - Data type standardization for numerical columns
