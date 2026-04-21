@@ -1,0 +1,30 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb~
+*.pyc
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (if not committing data)
+*.csv
+*.xlsx
+*.parquet
+
+# Logs
+*.log
