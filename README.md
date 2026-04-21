@@ -11,8 +11,6 @@ This project implements a machine learning pipeline to classify ocean proximity 
 
 ## Code Structure
 
-## Code Structure
-
 ```
 California-Housing-Project/
 │
