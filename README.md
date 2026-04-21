@@ -11,6 +11,22 @@ This project implements a machine learning pipeline to classify ocean proximity 
 
 ## Code Structure
 
+## Code Structure
+
+```
+California-Housing-Project/
+│
+├── Housing_Project.ipynb    # Main Jupyter notebook with full code
+├── README.md                # Project documentation
+├── requirements.txt         # Python dependencies
+├── LICENSE                  # MIT License
+├── .gitignore              # Git ignore file
+│
+├── Correlation_Heatmap.png           # Correlation heatmap visualization
+├── Histogram and Barchart.png        # Histograms and bar charts
+└── Boxplot.png                       # Boxplots for outlier detection
+```
+
 
 ## Dataset
 
