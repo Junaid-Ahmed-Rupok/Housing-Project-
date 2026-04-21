@@ -9,6 +9,9 @@
 
 This project implements a machine learning pipeline to classify ocean proximity categories in the California Housing dataset using a Random Forest Classifier with SMOTE for handling class imbalance.
 
+## Code Structure
+
+
 ## Dataset
 
 The dataset contains housing information from California districts collected from the 1990 census. Key features include:
@@ -137,3 +140,8 @@ The model performs excellently across majority classes with 98% weighted average
 4. Engineer new features (rooms_per_household, population_per_household, bedrooms_per_room)
 
 ## Requirements
+
+## Installation
+
+```bash
+pip install -r requirements.txt
